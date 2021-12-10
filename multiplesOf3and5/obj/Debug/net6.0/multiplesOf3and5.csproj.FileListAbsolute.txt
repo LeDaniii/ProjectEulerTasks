@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\bin\Debug\net6.0\multiplesOf3and5.exe
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\bin\Debug\net6.0\multiplesOf3and5.deps.json
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\bin\Debug\net6.0\multiplesOf3and5.runtimeconfig.json
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\bin\Debug\net6.0\multiplesOf3and5.dll
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\bin\Debug\net6.0\ref\multiplesOf3and5.dll
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\bin\Debug\net6.0\multiplesOf3and5.pdb
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\obj\Debug\net6.0\multiplesOf3and5.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\obj\Debug\net6.0\multiplesOf3and5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\obj\Debug\net6.0\multiplesOf3and5.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\obj\Debug\net6.0\multiplesOf3and5.AssemblyInfo.cs
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\obj\Debug\net6.0\multiplesOf3and5.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\obj\Debug\net6.0\multiplesOf3and5.dll
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\obj\Debug\net6.0\ref\multiplesOf3and5.dll
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\obj\Debug\net6.0\multiplesOf3and5.pdb
+C:\Users\danie\Desktop\ProjectEuler\multiplesOf3and5\obj\Debug\net6.0\multiplesOf3and5.genruntimeconfig.cache

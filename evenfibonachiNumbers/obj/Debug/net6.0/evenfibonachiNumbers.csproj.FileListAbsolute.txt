@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\bin\Debug\net6.0\evenfibonachiNumbers.exe
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\bin\Debug\net6.0\evenfibonachiNumbers.deps.json
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\bin\Debug\net6.0\evenfibonachiNumbers.runtimeconfig.json
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\bin\Debug\net6.0\evenfibonachiNumbers.dll
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\bin\Debug\net6.0\ref\evenfibonachiNumbers.dll
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\bin\Debug\net6.0\evenfibonachiNumbers.pdb
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\obj\Debug\net6.0\evenfibonachiNumbers.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\obj\Debug\net6.0\evenfibonachiNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\obj\Debug\net6.0\evenfibonachiNumbers.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\obj\Debug\net6.0\evenfibonachiNumbers.AssemblyInfo.cs
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\obj\Debug\net6.0\evenfibonachiNumbers.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\obj\Debug\net6.0\evenfibonachiNumbers.dll
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\obj\Debug\net6.0\ref\evenfibonachiNumbers.dll
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\obj\Debug\net6.0\evenfibonachiNumbers.pdb
+C:\Users\danie\Desktop\ProjectEuler\evenfibonachiNumbers\obj\Debug\net6.0\evenfibonachiNumbers.genruntimeconfig.cache
